@@ -1,4 +1,4 @@
-# -GDSC_CSS_Christmas-tree-
+# -GDSC_CSS_Christmas-tree
 #CSS Battle
 "Christmas Tree"
 ##Author
